@@ -2,7 +2,7 @@ ipeline {
     agent any
     environment {
         PROJECT_ID = 'sturdy-pivot-329308'
-        CLUSTER_NAME = 'Test'
+        CLUSTER_NAME = 'test'
         LOCATION = 'us-east4-c'
         CREDENTIALS_ID = 'gke'
     }
